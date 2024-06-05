@@ -1,0 +1,2 @@
+# sifreolustur
+Rastgele Şifre Oluşturma
